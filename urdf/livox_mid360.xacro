@@ -67,14 +67,14 @@
       <visual> 
         <origin xyz="0.00 0 0.0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://livox_laser_simulation/meshes/livox_mid40.dae">
+          <mesh filename="package://livox_laser_simulation/meshes/livox_mid360.dae">
           </mesh>
         </geometry>
       </visual>
 
       <collision>
 		  <origin xyz="0 0 0" rpy="0 0 0" /> <geometry> <mesh 
-		  filename="package://livox_laser_simulation/meshes/livox_mid40.dae"> 
+		  filename="package://livox_laser_simulation/meshes/livox_mid360.dae"> 
 		  </mesh> </geometry>
       </collision>
     </link>
